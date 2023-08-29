@@ -1,7 +1,6 @@
-**Hi there!👋🏻**
-========================================================================================================================================
+# 💥 David Delgado
 
-My Name is David Delgado. I am a aspring Front-End Developer based in Miami, Florida 🌴. I have Full-Stack Development knowledge but i have a passion for Front-End Developement and design.
+I am a aspring Front-End Developer based in Miami, Florida 🌴. I have Full-Stack Development knowledge but i have a passion for Front-End Developement and design. All Coding projects are built from scratch. Enjoy!
 <br/>
 
 ### Skills
