@@ -1,23 +1,16 @@
-# 💥 David Delgado
+# 👋 Hey, I’m David Delgado (aka delgadodevelops)
 
-I am a aspring Front-End Developer based in Miami, Florida 🌴. I have Full-Stack Development knowledge but i have a passion for Front-End Developement and design. All Coding projects are built from scratch. Enjoy!
-<br/>
+I'm a front-end developer with a passion for clean UI, modern tech, and performance-first web design.
 
-### Skills
+## 🧰 Tech Stack
+React · Vite · Tailwind · JavaScript · Framer Motion · Git
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,photoshop)](https://skillicons.dev)
-<br/>
+## 🚀 Projects
+- 🔗 [Portfolio Website](https://your-portfolio-link.com)
+- 🧾 Job Tracker App *(in progress)*
+- 🌤️ Weather App *(in progress)*
+- 🧩 Slate Web Studio
 
-### Socials
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/daviddelgado-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div id="badges">
-  <a href="https://delgadodevelops.com/">
-    <img src="https://img.shields.io/badge/delgadodevelops-grey?style=for-the-badge&logo=google home" alt="delgadodevelops Badge"/>
-  </a>
-</div>
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/yourname)
+- [Email](mailto:youremail@example.com)
