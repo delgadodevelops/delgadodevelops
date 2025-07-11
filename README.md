@@ -46,7 +46,7 @@ Minimal, modern weather app using OpenWeatherMap API and animated icons.
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://slatewebstudio.com"><img src="https://img.shields.io/badge/agency-website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+ 
 </p>
 
 ---
