@@ -1,16 +1,37 @@
 # 👋 Hey, I’m David Delgado (aka delgadodevelops)
 
-I'm a front-end developer with a passion for clean UI, modern tech, and performance-first web design.
+Front-end developer focused on building sleek, modern, and high-performance web experiences. Currently creating tools and digital products that combine clean design with solid code.
+
+---
 
 ## 🧰 Tech Stack
-React · Vite · Tailwind · JavaScript · Framer Motion · Git
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-## 🚀 Projects
-- 🔗 [Portfolio Website](https://your-portfolio-link.com)
-- 🧾 Job Tracker App *(in progress)*
-- 🌤️ Weather App *(in progress)*
-- 🧩 Slate Web Studio
+---
 
-## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Email](mailto:youremail@example.com)
+## 🚀 Featured Projects
+
+- 🎨 [Slate Web Studio](https://slatewebstudio.com)  
+  Web design agency project — built with React, Vite, Tailwind, and Framer Motion
+
+- 🧾 **Job Tracker App** (coming soon)  
+  React app to manage your job applications, filter by stage, and track progress
+
+- 🌤️ **Weather App** (coming soon)  
+  Minimal modern weather app using OpenWeatherMap API
+
+- 🧰 [delgadodevelops Portfolio](https://your-deployed-portfolio-link.com)  
+  My personal portfolio and dev playground
+
+---
+
+## 📫 Let’s Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
