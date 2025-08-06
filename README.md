@@ -24,7 +24,7 @@ Clean, responsive portfolio site with React + Tailwind showcasing my latest work
 🎨 [**Slate Web Studio**](https://slatewebstudio.com)  
 A full agency website built from scratch. SEO-friendly, animated, and 100% custom-coded.
 
-🎨 [**Weather App**](https://modern-weather-app-peach.vercel.app/)  
+⛅ [**Weather App**](https://modern-weather-app-peach.vercel.app/)  
 Minimal, modern weather app using OpenWeatherMap API and animated icons.
 
 ---
